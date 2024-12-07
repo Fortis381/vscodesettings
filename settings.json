@@ -51,5 +51,6 @@
     "files.defaultLanguage": "${activeEditorLanguage}",
     "window.restoreWindows": "none",
     "window.systemColorTheme": "dark",
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Theme",
 }
